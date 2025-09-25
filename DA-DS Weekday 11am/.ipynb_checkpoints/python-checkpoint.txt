@@ -1,0 +1,6 @@
+Machine learning Hello
+Data Science 
+Data Analytics
+Deep learning
+Natural Language processing
+Transformers(optimus prime)
